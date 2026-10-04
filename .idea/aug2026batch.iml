@@ -7,5 +7,6 @@
     </content>
     <orderEntry type="jdk" jdkName="D:\7. ETLQALabs\aug2026batch\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="ETLQALabs_Assignments" />
   </component>
 </module>
